@@ -1,3 +1,3 @@
 class StaticController < ApplicationController
-  layout static
+  layout 'static'
 end
